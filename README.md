@@ -28,7 +28,7 @@
 
 2. **Сборка и запуск**:
    ```batch
-   git clone https://github.com/ваш-репозиторий/sort-visualizer.git
+   git clone https://github.com/svgerasimov/sort-visualizer.git
    cd sort-visualizer
    mvn clean compile exec:java -Dexec.mainClass="org.example.SortVisualizerApp"
    ```
@@ -44,7 +44,7 @@
 
 2. **Сборка и запуск**:
    ```bash
-   git clone https://github.com/ваш-репозиторий/sort-visualizer.git
+   git clone https://github.com/svgerasimov/sort-visualizer.git
    cd sort-visualizer
    mvn clean compile exec:java -Dexec.mainClass="org.example.SortVisualizerApp"
    ```
